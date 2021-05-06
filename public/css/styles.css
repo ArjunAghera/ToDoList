@@ -4,7 +4,7 @@
 
 html {
   background-color: #E4E9FD;
-  background-image: -webkit-linear-gradient(65deg, #008eb9 50%, #00111f 50%);
+  background-image: -webkit-linear-gradient(65deg, #4f8c9e 50%, #0c141b 50%);
   min-height: 1000px;
 }
 
@@ -16,7 +16,7 @@ h1 {
 .box {
   max-width: 470px;
   margin: 50px auto;
-  background: rgb(187, 247, 255);
+  background: rgb(30, 45, 65);
   border-radius: 5px;
   box-shadow: 5px 5px 15px -5px rgba(0, 0, 0, 0.3);
 }
@@ -93,6 +93,6 @@ input[type="text"]:focus {
 
 footer {
   color: white;
-  color: rgb(202, 202, 202);
+  color: rgb(255, 255, 255);
   text-align: center;
 }
